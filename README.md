@@ -6,4 +6,4 @@ The ping sensors aren't waterproof, so don't put them in a place where they will
 
 It's possible to make multiple instances of this hardware to get distances from multiple sides. The sonar ping devices have different max ranges based on individual hardware, but most of them will handle the 100cm max range specified in this project.
 
-[![Arduino parking assistant](https://img.youtube.com/vi/https://youtu.be/wfG2-VHoKhY/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/wfG2-VHoKhY)
+[![Arduino parking assistant](https://img.youtube.com/vi/wfG2-VHoKhY/0.jpg)](https://youtu.be/wfG2-VHoKhY)
