@@ -18,7 +18,7 @@
   Neopixel connection
   * 5V to 5V
   * GND to GND
-  * Data to D10
+  * Data to D6
 */
 #include <Adafruit_NeoPixel.h>
 #ifdef __AVR__
